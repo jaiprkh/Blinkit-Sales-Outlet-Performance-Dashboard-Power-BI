@@ -18,6 +18,7 @@ The dashboard transforms sales data into meaningful business insights through in
 - Study sales trends based on outlet establishment
 - Analyze customer ratings and item visibility
 
+Blinkit Dashboard.png
 ---
 
 ## 📌 Key KPIs
